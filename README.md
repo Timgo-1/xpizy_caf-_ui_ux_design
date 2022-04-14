@@ -7,7 +7,7 @@
 New major projects coming soon.
 
 ## Introduction
-This is a code repository for Xpizy-Cafe Restaurant Landing Page. It entails building a Modern UI/UX Restaurant Landing Page Website utilising the the underlisted processes:
+This is a code repository for Xpizy-Cafe Landing Page. It entails building a Modern UI/UX Restaurant Landing Page Website utilising the the underlisted processes:
 
 - React file and folder structure;
 - React Functional components and their reusability;
