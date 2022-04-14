@@ -1,0 +1,11 @@
+.app__wrapper-content p {
+    color: aquamarine;
+}
+
+.app__wrapper_info button {
+    color: chartreuse;
+    background-color: saddlebrown;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-radius: 3px;
+} 
